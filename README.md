@@ -9,10 +9,22 @@ WhatsApp Chat Analyzer is a tool designed to parse and analyze chat data exporte
 ## Features
 
 - **Import WhatsApp Chat:** Upload your exported WhatsApp chat text file (.txt) to analyze.
+
 - **Message Statistics:** View statistics such as total messages, average message length, most active users, and message frequency over time.
+  ![WhatsApp Chat Analyzer](/images/img1.png)
+  
 - **Word Cloud:** Generate a word cloud to visualize the most commonly used words in the chat.
+  ![WhatsApp Chat Analyzer](/images/img6.png)
+
 - **Timeline Analysis:** Explore message frequency trends over time using an interactive timeline chart.
+  ![WhatsApp Chat Analyzer](/images/img2.png)
+
+- **Heatmap** nteractive heatmap visualization showcasing message frequency and activity patterns over time in WhatsApp conversations.
+  ![WhatsApp Chat Analyzer](/images/img5.png)
+
 - **Export Data:** Export analyzed data and visualizations for further analysis or sharing.
+
+
 
 ## Installation
 
